@@ -21,4 +21,4 @@ The software has object structure:
 - CSVMaker: it generates and manage CSV attachments.
 
 ## Usage
-`GeoForensics.py --username YourName --filename ProjectName --takeouts paths/of/one/or/more/monthly/JSON --datetime TimestampToCheck --placeCoord LatLongToCheck --placeTS TimestampToCheckForLatLong --minDuration DurationOfVisit --maxDistance RadiusOfSearch --oneVSone --oneVSn --createCSV`
+`python3.7 GeoForensics.py --username YourName --filename ProjectName --takeouts paths/of/one/or/more/monthly/JSON --datetime TimestampToCheck --placeCoord LatLongToCheck --placeTS TimestampToCheckForLatLong --minDuration DurationOfVisit --maxDistance RadiusOfSearch --oneVSone --oneVSn --createCSV`
