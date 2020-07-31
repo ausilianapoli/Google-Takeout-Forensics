@@ -1,0 +1,8 @@
+input-file,datetime-query,lat,long,startTS,startTime,endTS,endTime,confidence
+example/private/alberto/2020_JUNE.json,2020-06-02 12:20:00,37.0033335,15.3203586,1591091933,2020-06-02 11:58:53,1591106545,2020-06-02 16:02:25,75
+input-file,datetime-query,lat,long,startTS,startTime,endTS,endTime,confidence
+example/private/alberto/2020_JUNE.json,2020-06-02 12:20:00,37.0033335,15.3203586,1591091933,2020-06-02 11:58:53,1591106545,2020-06-02 16:02:25,75
+input-file,datetime-query,lat,long,startTS,startTime,endTS,endTime,confidence
+example/private/alberto/2020_JUNE.json,2020-06-02 12:20:00,37.0033335,15.3203586,1591091933,2020-06-02 11:58:53,1591106545,2020-06-02 16:02:25,75
+input-file,datetime-query,lat,long,startTS,startTime,endTS,endTime,confidence
+example/private/alberto/2020_JUNE.json,2020-06-02 12:20:00,37.0033335,15.3203586,1591091933,2020-06-02 11:58:53,1591106545,2020-06-02 16:02:25,75

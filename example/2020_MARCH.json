@@ -1,0 +1,265 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1583126733000",
+        "endTimestampMs" : "1583133120000"
+      },
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 375609474,
+          "lngE7" : 150645132,
+          "timestampMs" : "1583139328000",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : 375584602,
+          "lngE7" : 150648146,
+          "timestampMs" : "1583139404000",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : 375524101,
+          "lngE7" : 150618687,
+          "timestampMs" : "1583139525000",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 375483437,
+          "lngE7" : 150658741,
+          "timestampMs" : "1583139586000",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : 375358925,
+          "lngE7" : 150734987,
+          "timestampMs" : "1583139841000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375742340,
+          "lngE7" : 150690002,
+          "timestampMs" : "1583176374058",
+          "accuracyMeters" : 52
+        } ]
+      },
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1583133120000",
+        "endTimestampMs" : "1583144070000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 375259527,
+        "longitudeE7" : 150738812,
+        "placeId" : "ChIJZ2FOmCb9ExMRcn5-0P8ip48",
+        "address" : "Viale Andrea Doria, 6\n95125 Catania CT\nItalia",
+        "name" : "Università degli Studi di Catania - Dipartimento di Ingegneria Civile e Architettura",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1583144070000",
+        "endTimestampMs" : "1583174066000"
+      },
+      "placeConfidence" : "USER_CONFIRMED",
+      "visitConfidence" : 100,
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 375259527,
+        "longitudeE7" : 150738812,
+        "placeId" : "ChIJZ2FOmCb9ExMRcn5-0P8ip48",
+        "address" : "Viale Andrea Doria, 6\n95125 Catania CT\nItalia",
+        "name" : "Università degli Studi di Catania - Dipartimento di Ingegneria Civile e Architettura",
+        "locationConfidence" : 100.0
+      },
+      "endLocation" : {
+        "latitudeE7" : 375256560,
+        "longitudeE7" : 150735060,
+        "placeId" : "ChIJTR5YnCb9ExMRcdlJNO2vHoc",
+        "address" : "Viale Andrea Doria, 6\n95125 Catania CT\nItalia",
+        "name" : "iCTLab s.r.l.",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1583174066000",
+        "endTimestampMs" : "1583218800000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 375256560,
+        "longitudeE7" : 150735060,
+        "placeId" : "ChIJTR5YnCb9ExMRcdlJNO2vHoc",
+        "address" : "Viale Andrea Doria, 6\n95125 Catania CT\nItalia",
+        "name" : "iCTLab s.r.l.",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1583218800000",
+        "endTimestampMs" : "1583233200000"
+      },
+      "placeConfidence" : "USER_CONFIRMED",
+      "visitConfidence" : 100,
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 375383108,
+        "longitudeE7" : 151025479
+      },
+      "endLocation" : {
+        "latitudeE7" : 375685516,
+        "longitudeE7" : 150832951
+      },
+      "duration" : {
+        "startTimestampMs" : "1583587673095",
+        "endTimestampMs" : "1583588307000"
+      },
+      "distance" : 114,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 73.6552357673645
+      }, {
+        "activityType" : "STILL",
+        "probability" : 21.69279456138611
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.6141720116138458
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.500189770013094
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.8321920409798622
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.5676604341715574
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.03535372961778194
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0327282992657274
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.030609153327532113
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.030513416277244687
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0028684629796771333
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0019857183360727504
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.001961688758456148
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0016400985259679146
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.425549478692119E-5
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 375373609,
+          "lngE7" : 151022620,
+          "timestampMs" : "1583587720000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375383447,
+          "lngE7" : 151025400,
+          "timestampMs" : "1583587770000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375401267,
+          "lngE7" : 151025075,
+          "timestampMs" : "1583587794000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375438637,
+          "lngE7" : 151004470,
+          "timestampMs" : "1583587840000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375440807,
+          "lngE7" : 150988697,
+          "timestampMs" : "1583587855000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375491505,
+          "lngE7" : 150999518,
+          "timestampMs" : "1583587915000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375522983,
+          "lngE7" : 150982424,
+          "timestampMs" : "1583587977000",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 375541710,
+          "lngE7" : 150948892,
+          "timestampMs" : "1583588038000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375591629,
+          "lngE7" : 150896309,
+          "timestampMs" : "1583588114000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375567112,
+          "lngE7" : 150875784,
+          "timestampMs" : "1583588148000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375660975,
+          "lngE7" : 150828276,
+          "timestampMs" : "1583588257000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 375683405,
+          "lngE7" : 150839646,
+          "timestampMs" : "1583588288000",
+          "accuracyMeters" : 3
+        } ]
+      }
+    }
+  } ]
+}

@@ -1,0 +1,47 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 375256560,
+        "longitudeE7" : 150735060,
+        "placeId" : "ChIJTR5YnCb9ExMRcdlJNO2vHoc",
+        "address" : "Viale Andrea Doria, 6\n95125 Catania CT\nItalia",
+        "name" : "iCTLab s.r.l.",
+        "sourceInfo" : {
+          "deviceTag" : -1170083262
+        },
+        "locationConfidence" : 91.72344
+      },
+      "duration" : {
+        "startTimestampMs" : "1591362219639",
+        "endTimestampMs" : "1591562402705"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 375257052,
+      "centerLngE7" : 150736714,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 375256577,
+        "longitudeE7" : 150735073,
+        "placeId" : "ChIJwyX5nCb9ExMRgUeLxATewak",
+        "locationConfidence" : 6.782555
+      }, {
+        "latitudeE7" : 375035647,
+        "longitudeE7" : 150864981,
+        "placeId" : "ChIJ40IlwyvjExMRebGNv_H2a_E",
+        "locationConfidence" : 0.74999785
+      }, {
+        "latitudeE7" : 375245559,
+        "longitudeE7" : 150722064,
+        "placeId" : "ChIJEWhZyiX9ExMRim5f7LWh5dQ",
+        "locationConfidence" : 0.27319908
+      }, {
+        "latitudeE7" : 375293467,
+        "longitudeE7" : 150693326,
+        "placeId" : "ChIJ59RhQSP9ExMRmYWU7toHfII",
+        "locationConfidence" : 0.116333604
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
