@@ -22,3 +22,5 @@ The software has object structure:
 
 ## Usage
 `python3.7 GeoForensics.py --username YourName --filename ProjectName --takeouts paths/of/one/or/more/monthly/JSON --datetime TimestampToCheck --placeCoord LatLongToCheck --placeTS TimestampToCheckForLatLong --minDuration DurationOfVisit --maxDistance RadiusOfSearch --oneVSone --oneVSn --createCSV`
+  
+<img src="screen.png">
